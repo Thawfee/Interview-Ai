@@ -1,0 +1,10 @@
+Aarav Kumar
+B.Tech Artificial Intelligence and Machine Learning, Example Institute of Technology
+
+Skills: Java, Spring Boot, Python, SQL, MySQL, Machine Learning, React, TypeScript, Git
+Projects:
+- Smart Study Guardian: Built an ML-based study assistant that predicts study risk and recommends revision topics.
+- Placement Portal: Built a Java Spring Boot and MySQL web application with REST APIs.
+Certifications: Java Programming, Machine Learning Foundations
+Areas of Interest: Backend Development, Machine Learning, Data Analytics
+Experience: Student project work and college hackathons.
